@@ -1,0 +1,25 @@
+#top-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#directions-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#high-scores {
+    color:aqua;
+}
+
+#main-header {
+    text-align: center;  
+}
+
+#directions {
+    text-align: center;
+    
+    font-size: 20px;
+
+}
